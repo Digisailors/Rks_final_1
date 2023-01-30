@@ -165,7 +165,8 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none; 
+}
 
 svg {
   overflow: hidden;
@@ -8441,7 +8442,7 @@ h3
     .topper .text .con {
       margin-bottom: 0;
       font-size: 12px;
-      font-weight: 300; }
+      font-weight: 500; }
       .topper .text .con span {
         font-weight: 600;
         font-size: 13px;
@@ -8451,7 +8452,7 @@ h3
     .topper .text .hr span {
       color: #000000;
       font-weight: 600;
-      font-size: 13px; }
+      font-size: 20px; }
     .topper .text .time span:last-child {
       font-weight: 600;
       color: #fc5e28; }
